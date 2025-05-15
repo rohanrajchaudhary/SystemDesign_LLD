@@ -1,0 +1,36 @@
+<mxfile host="65bd71144e">
+    <diagram id="HElwPfpyXl7HRqs2e4Ps" name="Page-1">
+        <mxGraphModel dx="581" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="-22.37" y="-220" width="504.75" height="315.13" as="geometry"/>
+                </mxCell>
+                <mxCell id="nGpCIf0ZqeRHPgc8pEju-4" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="-250" width="320" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="nGpCIf0ZqeRHPgc8pEju-5" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="-110" width="310" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="nGpCIf0ZqeRHPgc8pEju-6" value="CAR" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="-310" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="nGpCIf0ZqeRHPgc8pEju-7" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;BRAND : STRING&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;MODEL : STRING&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;ENGINE : INT&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="-230" width="230" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="nGpCIf0ZqeRHPgc8pEju-9" value="&lt;ol&gt;&lt;li&gt;&lt;b&gt;STARTENGINE : VOID&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;STOPENGINE : VOID&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;ACCELERATOR : VOID&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;BRAKE : VOID&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="-70" width="260" height="210" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="Nont4rdI4SM_aivGFssj" name="Page-2">
+        <mxGraphModel dx="407" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
